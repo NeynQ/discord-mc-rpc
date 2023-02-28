@@ -3,7 +3,7 @@ from yandex_music import Client
 import time
 
 server = input("Введите адрес сервера: ")
-version = input("Введите версию Minecraft: ")
+version = input("Введите версию Minecraft : ")
 
 client_id = "1080098980765110362"
 RPC = Presence(client_id)
